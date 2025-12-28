@@ -13,6 +13,10 @@ main:
     children:
       - title: "ADALM-PLUTO"
         url: /sdr-lab-website/videos/pluto/
+      - title: "GNU Radio"
+        url: /sdr-lab-website/videos/gnuradio/
+      - title: "DSP Basics"
+        url: /sdr-lab-website/videos/dsp/
 
   - title: "Contribute"
     url: /sdr-lab-website/contribute/
