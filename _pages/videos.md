@@ -1,23 +1,18 @@
 ---
 title: "Instructional Videos"
 permalink: /videos/
+layout: single
 ---
 
 ## SDR Lab Instructional Videos
 
-These videos provide walkthroughs and demonstrations for SDR lab experiments.
+Select a video category below.
 
-### ADALM PLUTO Full Duplex SDR Demonstration
+### 📡 PlutoSDR
+- [PlutoSDR Full Duplex Demonstration]({{ site.baseurl }}/videos/pluto/)
 
-This video demonstrates full-duplex operation using the ADALM-PLUTO software-defined radio,
-including transmit/receive configuration and practical considerations.
+### 📶 GNU Radio
+- [GNU Radio Walkthroughs]({{ site.baseurl }}/videos/gnuradio/)
 
-<iframe
-  width="100%"
-  height="400"
-  src="https://www.youtube.com/embed/nlXiD-A2fA8"
-  title="ADALM PLUTO Full Duplex Software Defined Radio"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+### 📐 DSP Basics
+- [DSP Fundamentals]({{ site.baseurl }}/videos/dsp/)
