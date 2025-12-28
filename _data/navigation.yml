@@ -1,11 +1,20 @@
 main:
   - title: "About"
-    url: "{{ site.baseurl }}/about/"
+    url: /about/
+
   - title: "Experiments"
-    url: "{{ site.baseurl }}/experiments/"
+    url: /experiments/
+
   - title: "Manuals"
-    url: "{{ site.baseurl }}/manuals/"
+    url: /manuals/
+
   - title: "Videos"
-    url: "{{ site.baseurl }}/videos/"
+    url: /videos/
+    children:
+      - title: "ADALM-PLUTO"
+        url: /videos/pluto/
+      - title: "GNU Radio"
+        url: /videos/gnuradio/
+
   - title: "Contribute"
-    url: "{{ site.baseurl }}/contribute/"
+    url: /contribute/
