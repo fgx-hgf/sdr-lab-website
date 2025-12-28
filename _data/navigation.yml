@@ -1,11 +1,11 @@
 main:
   - title: "About"
-    url: /about/
+    url: "{{ site.baseurl }}/about/"
   - title: "Experiments"
-    url: /experiments/
+    url: "{{ site.baseurl }}/experiments/"
   - title: "Manuals"
-    url: /manuals/
+    url: "{{ site.baseurl }}/manuals/"
   - title: "Videos"
-    url: /videos/
+    url: "{{ site.baseurl }}/videos/"
   - title: "Contribute"
-    url: /contribute/
+    url: "{{ site.baseurl }}/contribute/"
