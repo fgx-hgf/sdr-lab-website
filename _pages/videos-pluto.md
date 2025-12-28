@@ -5,5 +5,3 @@ layout: single
 ---
 
 ## ADALM-PLUTO Instructional Videos
-
-<iframe … ></iframe>
