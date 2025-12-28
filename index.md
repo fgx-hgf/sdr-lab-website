@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "SDR Lab"
 excerpt: "Lab manuals, experiment documentation, and instructional videos."
 author_profile: false
