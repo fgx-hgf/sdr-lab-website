@@ -1,22 +1,18 @@
 main:
   - title: "About"
-    url: "{{ site.baseurl }}/about/"
+    url: /sdr-lab-website/about/
 
   - title: "Experiments"
-    url: "{{ site.baseurl }}/experiments/"
+    url: /sdr-lab-website/experiments/
 
   - title: "Manuals"
-    url: "{{ site.baseurl }}/manuals/"
+    url: /sdr-lab-website/manuals/
 
   - title: "Videos"
-    url: "{{ site.baseurl }}/videos/"
+    url: /sdr-lab-website/videos/
     children:
       - title: "ADALM-PLUTO"
-        url: "{{ site.baseurl }}/videos/pluto/"
-      - title: "GNU Radio"
-        url: "{{ site.baseurl }}/videos/gnuradio/"
-      - title: "DSP Basics"
-        url: "{{ site.baseurl }}/videos/dsp/"
+        url: /sdr-lab-website/videos/pluto/
 
   - title: "Contribute"
-    url: "{{ site.baseurl }}/contribute/"
+    url: /sdr-lab-website/contribute/
